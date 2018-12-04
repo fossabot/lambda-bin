@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/botbits/lambda-bin.svg?branch=master)](https://travis-ci.org/botbits/lambda-bin)
 [![Coverage Status](https://coveralls.io/repos/github/botbits/lambda-bin/badge.svg?branch=master)](https://coveralls.io/github/botbits/lambda-bin?branch=master)
 [![NPM Version](https://img.shields.io/npm/v/lambda-bin.svg)](https://www.npmjs.com/package/lambda-bin)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarcelobern%2Flambda-bin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarcelobern%2Flambda-bin?ref=badge_shield)
 
 > Add non-standard binaries to serverless compute.
 
@@ -144,3 +145,6 @@ If `true`, any existing value will be replaced. If `false` the value provided wi
 ## License
 
 MIT © [BotBits<sup>SM</sup>](https://github.com/botbits)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarcelobern%2Flambda-bin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarcelobern%2Flambda-bin?ref=badge_large)
